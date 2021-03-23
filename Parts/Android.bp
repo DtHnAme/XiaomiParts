@@ -1,5 +1,5 @@
 android_app {
-    name: "XiaomiParts",
+    name: "Parts",
 
     static_libs: [
         "androidx.core_core",

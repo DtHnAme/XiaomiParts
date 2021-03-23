@@ -1,5 +1,4 @@
-# if u want use it, clone https://github.com/narg-dump/packages_apps_XiaomiParts.git packages/apps/XiaomiParts
-# add inherit on your dt $(call inherit-product, packages/apps/XiaomiParts/xiaomiparts.mk)
+# add inherit on your dt $(call inherit-product, packages/apps/Parts/parts.mk)
 # enforcing build, add on sepolicy/vendor :
 ```
 file.te : 
